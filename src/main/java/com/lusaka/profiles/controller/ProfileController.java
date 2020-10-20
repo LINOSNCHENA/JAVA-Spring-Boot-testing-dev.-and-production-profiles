@@ -9,7 +9,7 @@ public class ProfileController {
 
 	@Value("${app.message}")
 	private String profileDetails;
-	
+
 	@GetMapping("/")
 	public String getDataBaseConnectionDetails() {
 		return profileDetails;

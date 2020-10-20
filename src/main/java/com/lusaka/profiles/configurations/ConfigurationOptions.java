@@ -61,7 +61,7 @@ public class ConfigurationOptions {
 	@Bean
 	public String testEnviromentConnection() {
 		System.out.println("\n =======================TESTING========================================\n");
-	
+
 		System.out.println("DB connection for TEST - H2");
 		System.out.println(driverClassName);
 		System.out.println(url);
@@ -69,7 +69,7 @@ public class ConfigurationOptions {
 		return "DB Connection for PostgreSQL database";
 	}
 
-	@Profile("prod") // Option #3 - 
+	@Profile("prod") // Option #3 -
 	@Bean
 	public String prodEnviromentConnection() {
 		System.out.println("\n =========================PRODUCTION===================================\n");

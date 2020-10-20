@@ -1,16 +1,15 @@
-# DEVELOPMENT VS TESTING vs PRODUCTION ENVIROMENT 
+# DEVELOPMENT,TESTING vs PRODUCTION 
 
-Separations of the three parts of the software cycle. The development is separated from testing which is separe from the production. This remove built-in errors when the two are separated. The use of a separate  Virtual machibne or another machine is recommended
+Separation of the three parts of the software cycle. The development enviroment is separated from testing, which is the separated from the production enviroment. This remove built-in errors when the three are separated. The use of a separate  Virtual Machibne or another machine is recommended for the cycle.
 
 
 ## Executing the application
 
 1. Clone the repository 
 2. Update the dependancies in Maven POM.
-3. Table pages 3+2+10
-4. Change particular values in application.properties
-5. To compile the application run the first command below.
-6. Resources; Dev=h2, Test = Postgresql , Prod=MySQL
+3. Change particular values in application.properties
+4. To compile the application run the first command below.
+5. Resources;  Dev = Postgresql ,Test=h2, Prod=MySQL
 
 ## Execution commands:  
 
