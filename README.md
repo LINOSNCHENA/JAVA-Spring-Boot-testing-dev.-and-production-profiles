@@ -28,4 +28,6 @@ Open [http://localhost:8080/](http://localhost:8080/) in browser to see the appl
 
  Below are some Screens shots from the application
 
-![ Application Singleton Interface page #3 ](https://github.com/(1).png)
+![ Application Singleton Interface page #3 ](https://github.com/LINOSNCHENA/JAVA-Springboot-Testing-and-Development-Profiles/blob/master/uXviews/page%20(1).png)
+![ Application Singleton Interface page #3 ](https://github.com/LINOSNCHENA/JAVA-Springboot-Testing-and-Development-Profiles/blob/master/uXviews/Screenshot%20(2).png)
+![ Application Singleton Interface page #3 ](https://github.com/LINOSNCHENA/JAVA-Springboot-Testing-and-Development-Profiles/blob/master/uXviews/Screenshot%20(3).png)
